@@ -1,6 +1,4 @@
-# Image_to_Cartoon_Image
-
-# Human_deepface_detection
+# Image_to_Cartoon_Imag
 
 ## Introduction
 
