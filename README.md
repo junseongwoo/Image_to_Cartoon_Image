@@ -29,6 +29,9 @@ Image to PencilSketch, Image to Cartoon Image를 공부한 것을 표현하였�
 
 3) Image to Cartoon Image
 
+![Pencil](/results/desc2.png)
+
+
 
 --- 
 
