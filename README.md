@@ -24,7 +24,9 @@ Image to PencilSketch, Image to Cartoon Image를 공부한 것을 표현하였�
 - sigma_r은 0 ~ 1 범위로 사용, 이미지가 스무스해지는 동안 엣지를 얼마나 보존시키는지 결정하는 파라미터이며 작을수록 엣지가 많이 보존됩니다.
 
 2) Image to PencilSketch
+
 ![Pencil](/results/desc1.png)
+
 3) Image to Cartoon Image
 
 
@@ -33,10 +35,15 @@ Image to PencilSketch, Image to Cartoon Image를 공부한 것을 표현하였�
 ## Output
 
 ![result](/results/result1.png)
+
 ![result](/results/result2.png)
+
 ![result](/results/result3.png)
+
 ![result](/results/result4.png)
+
 ![result](/results/result5.png)
+
 ![result](/results/result6.png)
 
 
