@@ -3,7 +3,7 @@
 ## Introduction
 
 이번 프로젝트는 Python과 OpenCV, 그리고 Jupyter를 이용하여 OpenCV의 Detail Enhancing Filter와 
-Image to PencilSketch, Image to Cartoon Image를 공부한 것을 표현하였습다.
+Image to PencilSketch, Image to Cartoon Image를 공부한 것을 만들어 보았습니다.
 
 ---
 
@@ -42,18 +42,22 @@ Image to PencilSketch, Image to Cartoon Image를 공부한 것을 표현하였�
 
 ## Output
 
-![result](/results/result1.png)
+### 1) Detail Enhancing Filter
+![result](/results/result1.png){: width="480" height="480"}
 
 ![result](/results/result2.png)
 
-![result](/results/result3.png)
+### 2) Image to PencilSketch
+![result](/results/result3.png){: width="480" height="480"}
 
 ![result](/results/result4.png)
 
-![result](/results/result5.png)
+### 3) Image to Cartoon Image
+![result](/results/result5.png){: width="480" height="480"}
 
 ![result](/results/result6.png)
 
 
 ---
+ 
 
