@@ -43,17 +43,18 @@ Image to PencilSketch, Image to Cartoon Image를 공부한 것을 만들어 보�
 ## Output
 
 ### 1) Detail Enhancing Filter
-![result](/results/result1.png){: width="480" height="480"}
+
+<img src="/results/result1.png" width="480" height="400"/>
 
 ![result](/results/result2.png)
 
 ### 2) Image to PencilSketch
-![result](/results/result3.png){: width="480" height="480"}
+<img src="/results/result3.png" width="480" height="400"/>
 
 ![result](/results/result4.png)
 
 ### 3) Image to Cartoon Image
-![result](/results/result5.png){: width="480" height="480"}
+<img src="/results/result5.png" width="480" height="400"/>
 
 ![result](/results/result6.png)
 
